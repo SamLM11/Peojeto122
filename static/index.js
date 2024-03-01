@@ -218,7 +218,7 @@ function askBot() {
             });
 
         }
-
+ 
     })
 
     $('#bot_input_text').keypress(function(e){
